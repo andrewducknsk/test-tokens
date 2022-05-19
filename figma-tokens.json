@@ -1,212 +1,218 @@
 {
-  "bg": {
-    "primary": {
-      "state": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#f2f5f9",
-        "type": "color"
-      },
-      "brand": {
-        "value": "#f00",
-        "type": "color"
-      }
-    },
-    "notification": {
-      "bg-green": {
-        "value": "#ccf2e9",
-        "type": "color"
-      },
-      "bg-red": {
-        "value": "#fbdade",
-        "type": "color"
-      },
-      "bg-orange": {
-        "value": "#fff1de",
-        "type": "color"
-      },
-      "bg-blue": {
-        "value": "#ebf4fe",
-        "type": "color"
-      }
-    },
-    "transparent": {
-      "overlay": {
-        "value": "#00000080",
-        "type": "color"
-      },
-      "bar-tab": {
-        "value": "#ffffff99",
-        "type": "color"
-      },
-      "bar-nav": {
-        "value": "#11192499",
-        "type": "color"
-      }
-    },
-    "gradient": {
-      "skeleton": {
-        "value": "linear-gradient(90deg, #f2f4f900 0%, #ffffff 100%)",
-        "type": "color"
-      },
-      "cell-table": {
-        "value": "linear-gradient(180deg, #fafafa00 0%, #ffffff 100%)",
-        "type": "color"
-      }
-    }
-  },
-  "txt": {
-    "primary": {
+  "Default": {
+    "bg": {
       "primary": {
-        "value": "#111924",
-        "type": "color"
+        "state": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#f2f5f9",
+          "type": "color"
+        },
+        "brand": {
+          "value": "#006df0",
+          "type": "color"
+        }
       },
-      "invert": {
-        "value": "#ffffff",
-        "type": "color"
+      "notification": {
+        "bg-green": {
+          "value": "#ccf2e9",
+          "type": "color"
+        },
+        "bg-red": {
+          "value": "#fbdade",
+          "type": "color"
+        },
+        "bg-orange": {
+          "value": "#fff1de",
+          "type": "color"
+        },
+        "bg-blue": {
+          "value": "#ebf4fe",
+          "type": "color"
+        }
       },
-      "secondary": {
-        "value": "#5a7494",
-        "type": "color"
+      "transparent": {
+        "overlay": {
+          "value": "#00000080",
+          "type": "color"
+        },
+        "bar-tab": {
+          "value": "#ffffff99",
+          "type": "color"
+        },
+        "bar-nav": {
+          "value": "#11192499",
+          "type": "color"
+        }
       },
-      "ghost": {
-        "value": "#93a2ba",
-        "type": "color"
-      },
-      "link": {
-        "value": "$bg.primary.brand",
-        "type": "color"
-      },
-      "link-hover": {
-        "value": "#197cf1",
-        "type": "color"
+      "gradient": {
+        "skeleton": {
+          "value": "linear-gradient(90deg, #f2f4f900 0%, #ffffff 100%)",
+          "type": "color"
+        },
+        "cell-table": {
+          "value": "linear-gradient(180deg, #fafafa00 0%, #ffffff 100%)",
+          "type": "color"
+        }
       }
     },
-    "notification": {
+    "txt": {
       "primary": {
-        "value": "#7e8fb0",
-        "type": "color"
+        "primary": {
+          "value": "#111924",
+          "type": "color"
+        },
+        "invert": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#5a7494",
+          "type": "color"
+        },
+        "ghost": {
+          "value": "#93a2ba",
+          "type": "color"
+        },
+        "link": {
+          "value": "#006df0",
+          "type": "color"
+        },
+        "link-hover": {
+          "value": "#197cf1",
+          "type": "color"
+        }
       },
-      "success": {
-        "value": "#0b9c75",
-        "type": "color"
+      "notification": {
+        "primary": {
+          "value": "#7e8fb0",
+          "type": "color"
+        },
+        "success": {
+          "value": "#0b9c75",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#e37602",
+          "type": "color"
+        },
+        "alert": {
+          "value": "#d43e50",
+          "type": "color"
+        },
+        "helper": {
+          "value": "#b3d3fb",
+          "type": "color"
+        },
+        "success21": {
+          "value": "#0ba886",
+          "type": "color"
+        }
       },
-      "caution": {
-        "value": "#e37602",
-        "type": "color"
-      },
-      "alert": {
-        "value": "#d43e50",
-        "type": "color"
-      },
-      "helper": {
-        "value": "#b3d3fb",
-        "type": "color"
-      },
-      "success21": {
-        "value": "#0ba886",
-        "type": "color"
+      "coins": {
+        "grey": {
+          "value": "#93a2ba",
+          "type": "color"
+        },
+        "coins-green": {
+          "value": "#84cdb9",
+          "type": "color"
+        },
+        "coins-blue": {
+          "value": "#7fb5f7",
+          "type": "color"
+        },
+        "coins-red": {
+          "value": "#f28e9a",
+          "type": "color"
+        }
       }
     },
-    "coins": {
-      "grey": {
-        "value": "#93a2ba",
-        "type": "color"
+    "ui": {
+      "global": {
+        "default": {
+          "value": "#006df0",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#f2f6ff",
+          "type": "color"
+        },
+        "ghost": {
+          "value": "#f2f5f9",
+          "type": "color"
+        },
+        "active": {
+          "value": "#5a7494",
+          "type": "color"
+        },
+        "font": {
+          "value": "#111924",
+          "type": "color"
+        },
+        "invert": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fill": {
+          "value": "#d2d8e2",
+          "type": "color"
+        },
+        "system": {
+          "value": "#93a2ba",
+          "type": "color"
+        },
+        "bg-active": {
+          "value": "#f2f6ff",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#b3d3fb",
+          "type": "color"
+        },
+        "primary": {
+          "value": "#7e8fb0",
+          "type": "color"
+        }
       },
-      "coins-green": {
-        "value": "#84cdb9",
-        "type": "color"
+      "transparent": {
+        "bg-border": {
+          "value": "#1119241a",
+          "type": "color",
+          "description": "?????\n"
+        },
+        "bg-hover": {
+          "value": "#197cf1",
+          "type": "color"
+        },
+        "bg-pressed": {
+          "value": "#0062d8",
+          "type": "color"
+        }
       },
-      "coins-blue": {
-        "value": "#7fb5f7",
-        "type": "color"
-      },
-      "coins-red": {
-        "value": "#f28e9a",
-        "type": "color"
-      }
-    }
-  },
-  "ui": {
-    "global": {
-      "secondary": {
-        "value": "#f2f6ff",
-        "type": "color"
-      },
-      "ghost": {
-        "value": "#f2f5f9",
-        "type": "color"
-      },
-      "active": {
-        "value": "#5a7494",
-        "type": "color"
-      },
-      "font": {
-        "value": "#111924",
-        "type": "color"
-      },
-      "invert": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "fill": {
-        "value": "#d2d8e2",
-        "type": "color"
-      },
-      "system": {
-        "value": "#93a2ba",
-        "type": "color"
-      },
-      "bg-active": {
-        "value": "#f2f6ff",
-        "type": "color"
-      },
-      "focus": {
-        "value": "#b3d3fb",
-        "type": "color"
-      },
-      "default": {
-        "value": "$bg.primary.brand",
-        "type": "color"
-      }
-    },
-    "transparent": {
-      "bg-border": {
-        "value": "#1119241a",
-        "type": "color",
-        "description": "?????\n"
-      },
-      "bg-hover": {
-        "value": "#197cf1",
-        "type": "color"
-      },
-      "bg-pressed": {
-        "value": "#0062d8",
-        "type": "color"
-      }
-    },
-    "notification": {
-      "bg-red": {
-        "value": "#ec4559",
-        "type": "color"
-      },
-      "bg-green": {
-        "value": "#0ba886",
-        "type": "color"
-      },
-      "bg-orange-border": {
-        "value": "#e37602",
-        "type": "color"
-      },
-      "bg-red-border": {
-        "value": "#d43e50",
-        "type": "color"
-      },
-      "bg-green-border": {
-        "value": "#0b9c75",
-        "type": "color"
+      "notification": {
+        "bg-red": {
+          "value": "#ec4559",
+          "type": "color"
+        },
+        "bg-green": {
+          "value": "#0ba886",
+          "type": "color"
+        },
+        "bg-orange-border": {
+          "value": "#e37602",
+          "type": "color"
+        },
+        "bg-red-border": {
+          "value": "#d43e50",
+          "type": "color"
+        },
+        "bg-green-border": {
+          "value": "#0b9c75",
+          "type": "color"
+        }
       }
     }
   },
