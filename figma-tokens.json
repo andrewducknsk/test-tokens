@@ -133,7 +133,7 @@
     "ui": {
       "global": {
         "default": {
-          "value": "#006df0",
+          "value": "{bg.primary.brand}",
           "type": "color"
         },
         "secondary": {
