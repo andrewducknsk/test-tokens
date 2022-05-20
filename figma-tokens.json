@@ -215,17 +215,75 @@
         }
       }
     },
-    "4px": {
-      "value": "4px",
-      "type": "spacing"
+    "sp100": {
+      "value": "2",
+      "type": "spacing",
+      "description": "2 px - Spacing minimum "
     },
-    "8px": {
-      "value": "8px",
-      "type": "spacing"
+    "sp200": {
+      "value": "4",
+      "type": "spacing",
+      "description": "4 px - Spacing"
     },
-    "16px": {
-      "value": "16px",
-      "type": "spacing"
+    "sp300": {
+      "value": "8",
+      "type": "spacing",
+      "description": "8 px - Spacing MAIN (Link this)"
+    },
+    "sp310": {
+      "value": "10",
+      "type": "spacing",
+      "description": "10 px - Spacing atom and element"
+    },
+    "sp320": {
+      "value": "12",
+      "type": "spacing",
+      "description": "12 px - Spacing atom and element"
+    },
+    "sp400": {
+      "value": "16",
+      "type": "spacing",
+      "description": "16 px - spacing"
+    },
+    "sp410": {
+      "value": "18",
+      "type": "spacing",
+      "description": "18 px - Spacing atom and element"
+    },
+    "sp420": {
+      "value": "20",
+      "type": "spacing",
+      "description": "20 px - Spacing atom and element"
+    },
+    "sp500": {
+      "value": "24",
+      "type": "spacing",
+      "description": "24 px - Spacing"
+    },
+    "sp600": {
+      "value": "32",
+      "type": "spacing",
+      "description": "32 px - Spacing"
+    },
+    "sp700": {
+      "value": "40",
+      "type": "spacing",
+      "description": "40 px - Spacing"
+    },
+    "sp800": {
+      "value": "56",
+      "type": "spacing",
+      "description": "56 px - Spacing"
+    },
+    "sp900": {
+      "value": "80",
+      "type": "spacing",
+      "description": "80 px - Spacing"
+    },
+    "sp1000": {
+      "value": "120",
+      "type": "spacing",
+      "description": "120 px - Spacing"
     }
   },
   "$themes": []
