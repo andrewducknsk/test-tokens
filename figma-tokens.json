@@ -56,16 +56,6 @@
           "value": "linear-gradient(180deg, #fafafa00 0%, #ffffff 100%)",
           "type": "color"
         }
-      },
-      "Global-red": {
-        "value": "#ff0000",
-        "type": "color"
-      },
-      "a": {
-        "Global-red": {
-          "value": "#ff0000",
-          "type": "color"
-        }
       }
     },
     "txt": {
@@ -225,10 +215,6 @@
         }
       }
     },
-    "Global-red": {
-      "value": "#ff0000",
-      "type": "color"
-    },
     "4px": {
       "value": "4px",
       "type": "spacing"
@@ -240,10 +226,6 @@
     "16px": {
       "value": "16px",
       "type": "spacing"
-    },
-    "IRONMAN": {
-      "value": "linear-gradient(131deg, #ff0000 0%, #2487ff 100%)",
-      "type": "color"
     }
   },
   "$themes": []
