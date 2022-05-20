@@ -284,6 +284,11 @@
       "value": "120",
       "type": "spacing",
       "description": "120 px - Spacing"
+    },
+    "sz300": {
+      "value": "8",
+      "type": "sizing",
+      "description": "8 px "
     }
   },
   "$themes": []
