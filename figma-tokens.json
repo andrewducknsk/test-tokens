@@ -61,7 +61,7 @@
     "txt": {
       "primary": {
         "primary": {
-          "value": "#111924",
+          "value": "#455b70",
           "type": "color"
         },
         "invert": {
@@ -83,6 +83,11 @@
         "link-hover": {
           "value": "#197cf1",
           "type": "color"
+        },
+        "contrast": {
+          "value": "#111924",
+          "type": "color",
+          "description": "Max Black font"
         }
       },
       "notification": {
@@ -133,7 +138,7 @@
     "ui": {
       "global": {
         "default": {
-          "value": "{bg.primary.brand}",
+          "value": "#006df0",
           "type": "color"
         },
         "secondary": {
