@@ -3,7 +3,7 @@
     "bg": {
       "primary": {
         "state": {
-          "value": "#000000",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "secondary": {
